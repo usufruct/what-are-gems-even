@@ -1,5 +1,7 @@
 require "thorstein/version"
+require 'thor'
 
 module Thorstein
-  # Your code goes here...
+  class ThorActions < Thor
+  end
 end
