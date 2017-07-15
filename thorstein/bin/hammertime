@@ -2,4 +2,4 @@
 
 require 'thorstein'
 
-puts 'it lives!'
+Thorstein::ThorActions.start(ARGV)

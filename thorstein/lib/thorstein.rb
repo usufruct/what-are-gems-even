@@ -1,7 +1,5 @@
 require "thorstein/version"
-require 'thor'
+require 'thorstein/cli'
 
 module Thorstein
-  class ThorActions < Thor
-  end
 end
