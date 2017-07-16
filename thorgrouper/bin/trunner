@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'thorgrouper'
+
+Thorgrouper::CLI.start(ARGV)

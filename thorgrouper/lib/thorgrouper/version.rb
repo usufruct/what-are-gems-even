@@ -1,0 +1,3 @@
+module Thorgrouper
+  VERSION = "0.1.0"
+end
